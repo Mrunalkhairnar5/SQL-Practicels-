@@ -1,4 +1,11 @@
-CREATE DATABASE hitesh;
+-- Author: Mrunal
+-- Topic: Basic SQL Queries
+-- Database: MySQL
+-- Practice Level: Beginner
+
+
+
+CREATE DATABASE Mrunal;
 USE hitesh;
 
 CREATE TABLE employee (
